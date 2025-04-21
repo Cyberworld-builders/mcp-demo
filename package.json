@@ -1,0 +1,21 @@
+{
+  "name": "mcp-demo",
+  "version": "1.0.0",
+  "description": "Demonstrating a simple example of Anthropic's MCP protocol usage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyberworld-builders/mcp-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Cyberworld-builders/mcp-demo/issues"
+  },
+  "homepage": "https://github.com/Cyberworld-builders/mcp-demo#readme"
+}
